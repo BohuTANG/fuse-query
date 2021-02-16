@@ -5,6 +5,7 @@
 [![codecov.io](https://codecov.io/gh/datafusedev/fuse-query/graphs/badge.svg)](https://codecov.io/gh/datafusedev/fuse-query/branch/master)
 ![Platform](https://img.shields.io/badge/Platform-Linux,%20ARM,%20OS%20X,%20Windows-green.svg?style=flat)
 [![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBohuTANG%2Ffuse-query.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBohuTANG%2Ffuse-query?ref=badge_shield)
 
 
 FuseQuery is a Cloud Distributed SQL Query Engine at scale.
@@ -182,3 +183,7 @@ $ make test
 - [ ] 0.5 support sub queries
 - [ ] 0.6 support TPC-H benchmark
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBohuTANG%2Ffuse-query.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBohuTANG%2Ffuse-query?ref=badge_large)
