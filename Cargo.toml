@@ -38,7 +38,7 @@ tokio = { version = "1.0", features = ["macros", "rt", "rt-multi-thread", "signa
 
 [dev-dependencies]
 criterion = "0.3"
-pretty_assertions = "0.6"
+pretty_assertions = "0.7"
 
 [[bench]]
 name = "bench_main"
